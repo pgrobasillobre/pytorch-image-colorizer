@@ -1,0 +1,16 @@
+name: cnn-colorizer
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - pip
+  - pip:
+    - tensorflow
+    - torch
+    - torchvision
+    - matplotlib
+    - pillow
+    - scikit-image
+    - jupyter

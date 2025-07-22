@@ -50,13 +50,17 @@ The U-Net model is a fully convolutional encoder–decoder network often used fo
 ## Code Structure
 
 ```
-.
-├── classes/                 # Model definitions (UNetColorization96)
-├── pytorch/
-│   └── models/             # Saved models and training history
-├── scripts/                # Training and inference scripts
-│   ├── train_colorize_unet96.py
-│   └── colorize_image.py
+pytorch-unet
+├── classes/                 # U-Net model and dataset definitions
+│   ├── model_unet96.py
+│   └── colorization_dataset.py
+├── model/                   # Saved model and training history
+│   ├── colorizer_model_unet96_best.pth
+│   └── colorizer_training_history_unet96.pkl
+└── scripts/                # Training, inference, and plot loss scripts
+    ├── train_colorize_model_unet96.py
+    ├── colorize_unet96.py
+    └── plot_loss.py
 ```
 
 ## How to Use
@@ -65,7 +69,7 @@ The U-Net model is a fully convolutional encoder–decoder network often used fo
 
 ```
 cd scripts
-python train_colorize_unet96.py
+python train_colorize_model_unet96.py
 ```
 
 This script will train the U-Net model and save:
@@ -73,13 +77,13 @@ This script will train the U-Net model and save:
 - The best-performing model: `colorizer_model_unet96_best.pth`
 - The training history: `colorizer_training_history_unet96.pkl`
 
-### Run Inference
+### Run Inference Example
 
 ```
-python scripts/colorize_image.py \
-    --input path/to/grayscale_image.png \
-    --output path/to/output_colorized.png \
-    --model models/colorizer_model_unet96_best.pth
+python scripts/colorize_unet96.py \
+    --input example-image/tiger_grey.jpg \
+    --output example-image/tiger_color.jpg \
+    --model model/colorizer_model_unet96_best.pth
 ```
 
 ## Visualizing Loss over Training Epochs
@@ -93,7 +97,7 @@ python3 scripts/plot_loss.py --history model/colorizer_training_history_unet96.p
 
 ## License
 
-GEOM is licensed under the **GNU General Public License v3.0**.
+This code is licensed under the **GNU General Public License v3.0**.
 
 ## Contact
 

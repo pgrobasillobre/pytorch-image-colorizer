@@ -15,6 +15,23 @@ This project demonstrates how to:
 - Apply early stopping, loss tracking, and model checkpointing.
 - Run inference on new grayscale images using the trained model.
 
+
+## Dependencies
+
+- Python 3.8+
+- PyTorch
+- torchvision
+- numpy
+- Pillow
+- matplotlib
+
+Install them with:
+
+```bash
+pip install -r requirements.txt
+```
+
+
 ## Model Architecture
 
 The U-Net model is a fully convolutional encoder–decoder network often used for image-to-image tasks. It consists of:
@@ -67,20 +84,6 @@ You can visualize training and validation loss curves using the provided utiliti
 python3 scripts/plot_loss.py --history model/colorizer_training_history_unet96.pkl
 ```
 
-## Dependencies
-
-- Python 3.8+
-- PyTorch
-- torchvision
-- numpy
-- Pillow
-- matplotlib
-
-Install them with:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## License
 

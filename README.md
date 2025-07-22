@@ -5,7 +5,10 @@ This repository provides a PyTorch-based implementation of a convolutional neura
 
 <p align="center">
   <img src="_static/U-Net.png" width="800">
-  *U-Net architecture used in this project.*
+</p>
+
+<p align="center">
+  U-Net architecture used in this project.
 </p>
 
 

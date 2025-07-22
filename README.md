@@ -82,9 +82,13 @@ Install them with:
 pip install -r requirements.txt
 ```
 
-## About
+## License
 
-This project serves as an example of applying CNN architectures (specifically U-Net) for computer vision tasks in PyTorch. It was developed as a portfolio project to demonstrate experience with deep learning, model training, and deployment workflows.
+GEOM is licensed under the **GNU General Public License v3.0**.
 
-Contact: your.email@example.com  
-LinkedIn: https://linkedin.com/in/your-profile
+## Contact
+
+For issues or contributions:
+
+- Email: **pgrobasillobre@gmail.com**
+- Github issues: https://github.com/pgrobasillobre/pytorch-image-colorizer/issues

@@ -38,7 +38,7 @@ epochs_without_improvement = 0 # Counter for early stopping
 
 
 # Number of epochs to train, initialize training loss and validation loss lists 
-num_epochs = 2
+num_epochs = 30
 train_losses = []
 val_losses = []
 

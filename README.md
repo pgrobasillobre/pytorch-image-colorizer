@@ -8,7 +8,7 @@ This repository provides a PyTorch-based implementation of a convolutional neura
 </p>
 
 <p align="center">
-  U-Net architecture used in this project.
+  <em>U-Net architecture used in this project.</em>
 </p>
 
 

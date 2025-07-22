@@ -2,11 +2,9 @@
 
 This repository provides a PyTorch-based implementation of a convolutional neural network (CNN) for automatic image colorization using a U-Net architecture. The model is trained to convert grayscale images into RGB using the [STL-10 dataset](https://cs.stanford.edu/~acoates/stl10/), which contains natural images at a resolution of 96×96 pixels.
 
-<img src="_static/U-Net.png" alt="U-Net Architecture" width="600"/>
-
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pytorch-image-colorizer/_static/geom-logo-autogen.png" width="600">
+  <img src="_static/U-Net.png" width="600">
 </p>
 
 *U-Net architecture used in this project.*

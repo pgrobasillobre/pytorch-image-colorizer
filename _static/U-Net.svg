@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="355.18869mm"
-   height="179.33263mm"
-   viewBox="0 0 355.18869 179.33263"
+   width="350.95529mm"
+   height="192.74385mm"
+   viewBox="0 0 350.95529 192.74385"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="drawing.svg"
+   sodipodi:docname="U-Net.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.7518799"
-     inkscape:cx="213.46494"
-     inkscape:cy="309.22492"
+     inkscape:zoom="1.0633188"
+     inkscape:cx="774.46203"
+     inkscape:cy="426.49488"
      inkscape:window-width="2524"
      inkscape:window-height="1376"
      inkscape:window-x="72"
@@ -375,7 +375,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-328.10163,10.847787)">
+     transform="translate(-329.68915,10.847787)">
     <rect
        style="opacity:1;fill:#006bff;fill-opacity:0.425473;stroke:#000010;stroke-width:0.22398;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.447961, 0.22398;stroke-dashoffset:0;stroke-opacity:0"
        id="rect51"
@@ -384,7 +384,10 @@
        x="368.76077"
        y="-5.8525753"
        rx="0"
-       ry="2.2263858" />
+       ry="2.2263858"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <rect
        style="fill:#006bff;fill-opacity:0.425473;stroke:#000010;stroke-width:0.376;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.752, 0.376;stroke-dashoffset:0;stroke-opacity:0"
        id="rect51-6"
@@ -393,7 +396,10 @@
        x="386.57465"
        y="-5.8525753"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <rect
        style="fill:#006bff;fill-opacity:0.425473;stroke:#000010;stroke-width:0.376;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.752, 0.376;stroke-dashoffset:0;stroke-opacity:0"
        id="rect51-6-8"
@@ -402,7 +408,10 @@
        x="578.94336"
        y="-5.8525753"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <rect
        style="fill:#006bff;fill-opacity:0.425473;stroke:#000010;stroke-width:0.376;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.752, 0.376;stroke-dashoffset:0;stroke-opacity:0"
        id="rect51-6-8-8"
@@ -411,13 +420,19 @@
        x="625.87109"
        y="-5.8525753"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="367.57703"
        y="-7.1943779"
-       id="text10279"><tspan
+       id="text10279"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -428,7 +443,10 @@
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="384.3399"
        y="-7.228282"
-       id="text10279-7"><tspan
+       id="text10279-7"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -440,7 +458,10 @@
        x="-19.6029"
        y="366.62155"
        id="text10279-3"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -452,7 +473,10 @@
        x="-19.449434"
        y="385.17575"
        id="text10279-3-2"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -461,17 +485,26 @@
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
        d="m 378.81037,6.2934117 h -6.1408"
-       id="path48437" />
+       id="path48437"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-1)"
        d="m 387.03704,32.557701 v -6.1408"
-       id="path48437-7" />
+       id="path48437-7"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="372.97064"
        y="2.688637"
-       id="text49999"><tspan
+       id="text49999"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997"
          style="font-weight:bold;font-size:7.05556px;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
@@ -487,7 +520,10 @@
        x="406.68884"
        y="42.645706"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <rect
        style="fill:#006bff;fill-opacity:0.425473;stroke:#000010;stroke-width:0.525212;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.05042, 0.525212;stroke-dashoffset:0;stroke-opacity:0"
        id="rect51-6-1-8"
@@ -496,7 +532,10 @@
        x="599.06055"
        y="-5.8525772"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <rect
        style="fill:#006bff;fill-opacity:0.425473;stroke:#000010;stroke-width:0.525212;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.05042, 0.525212;stroke-dashoffset:0;stroke-opacity:0"
        id="rect51-6-1-2"
@@ -505,7 +544,10 @@
        x="529.039"
        y="43.704041"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <rect
        style="fill:#006bff;fill-opacity:0.425473;stroke:#000010;stroke-width:0.525212;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.05042, 0.525212;stroke-dashoffset:0;stroke-opacity:0"
        id="rect51-6-1-93"
@@ -514,13 +556,19 @@
        x="407.0766"
        y="92.4216"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="403.34012"
        y="41.27"
-       id="text10279-7-8"><tspan
+       id="text10279-7-8"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5-7"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -532,7 +580,10 @@
        x="-67.947716"
        y="404.70511"
        id="text10279-3-2-9"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9-2"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -546,7 +597,10 @@
        x="427.95303"
        y="92.4216"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <rect
        style="fill:#006bff;fill-opacity:0.425473;stroke:#000010;stroke-width:0.700536;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.40107, 0.700536;stroke-dashoffset:0;stroke-opacity:0"
        id="rect51-6-1-7-4"
@@ -555,7 +609,10 @@
        x="428.2327"
        y="140.85803"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <rect
        style="fill:#006bff;fill-opacity:0.425473;stroke:#000010;stroke-width:0.993448;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.98689, 0.993448;stroke-dashoffset:0;stroke-opacity:0"
        id="rect51-6-1-7-4-5"
@@ -564,17 +621,26 @@
        x="475.1062"
        y="140.85803"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-6)"
        d="m 397.2814,54.791693 h -6.1408"
-       id="path48437-0" />
+       id="path48437-0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="391.44168"
        y="51.186924"
-       id="text49999-2"><tspan
+       id="text49999-2"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3"
          style="font-weight:bold;font-size:7.05556px;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
@@ -587,7 +653,10 @@
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="390.43997"
        y="31.520887"
-       id="text49999-2-85"><tspan
+       id="text49999-2-85"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3-6"
          style="font-weight:bold;font-size:5.29167px;fill:#ff0000;fill-opacity:0.5;stroke-width:0.264583"
@@ -596,43 +665,49 @@
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
-       x="342.22241"
+       x="343.80994"
        y="1.0915663"
-       id="text49999-2-85-2"><tspan
+       id="text49999-2-85-2"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          style="font-weight:bold;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         x="342.22241"
+         x="343.80994"
          y="1.0915663"
          id="tspan612320">Input</tspan><tspan
          sodipodi:role="line"
          style="font-weight:bold;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         x="342.22241"
+         x="343.80994"
          y="7.7431955"
          id="tspan645279">image</tspan><tspan
          sodipodi:role="line"
          style="font-weight:bold;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         x="342.22241"
+         x="343.80994"
          y="14.394824"
          id="tspan636989">(grey scale)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
-       x="672.25861"
+       x="669.61273"
        y="1.2925909"
-       id="text49999-2-85-2-9"><tspan
+       id="text49999-2-85-2-9"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3-6-8-3"
          style="font-weight:bold;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         x="672.25861"
+         x="669.61273"
          y="1.2925909">Output</tspan><tspan
          sodipodi:role="line"
          style="font-weight:bold;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         x="672.25861"
+         x="669.61273"
          y="7.9442201"
          id="tspan612320-6">image</tspan><tspan
          sodipodi:role="line"
          style="font-weight:bold;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         x="672.25861"
+         x="669.61273"
          y="14.595849"
          id="tspan630819">(color)</tspan></text>
     <text
@@ -640,7 +715,10 @@
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="411.16757"
        y="81.07457"
-       id="text49999-2-85-1"><tspan
+       id="text49999-2-85-1"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3-6-5"
          style="font-weight:bold;font-size:5.29167px;fill:#ff0000;fill-opacity:0.5;stroke-width:0.264583"
@@ -651,7 +729,10 @@
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="433.1467"
        y="129.77307"
-       id="text49999-2-85-1-9"><tspan
+       id="text49999-2-85-1-9"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3-6-5-8"
          style="font-weight:bold;font-size:5.29167px;fill:#ff0000;fill-opacity:0.5;stroke-width:0.264583"
@@ -662,7 +743,10 @@
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="482.68753"
        y="130.21846"
-       id="text49999-2-85-1-9-4"><tspan
+       id="text49999-2-85-1-9-4"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3-6-5-8-8"
          style="font-weight:bold;font-size:5.29167px;fill:#00be00;fill-opacity:0.5;stroke-width:0.264583"
@@ -675,7 +759,10 @@
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="532.9093"
        y="80.216805"
-       id="text49999-2-85-1-9-4-1"><tspan
+       id="text49999-2-85-1-9-4-1"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3-6-5-8-8-0"
          style="font-weight:bold;font-size:5.29167px;fill:#00be00;fill-opacity:0.5;stroke-width:0.264583"
@@ -688,7 +775,10 @@
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="440.24078"
        y="99.554253"
-       id="text49999-2-8"><tspan
+       id="text49999-2-8"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3-5"
          style="font-weight:bold;font-size:5.29167px;fill:#000000;fill-opacity:0.6;stroke-width:0.264583"
@@ -699,7 +789,10 @@
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="452.16309"
        y="51.47649"
-       id="text49999-2-8-9"><tspan
+       id="text49999-2-8-9"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3-5-6"
          style="font-weight:bold;font-size:5.29167px;fill:#000000;fill-opacity:0.6;stroke-width:0.264583"
@@ -713,13 +806,19 @@
        x="386.58752"
        y="42.645706"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="384.35278"
        y="41.27"
-       id="text10279-7-9"><tspan
+       id="text10279-7-9"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5-3"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -731,7 +830,10 @@
        x="-67.947716"
        y="384.65948"
        id="text10279-3-2-6"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9-0"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -740,13 +842,19 @@
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-1-5)"
        d="m 408.118,81.804449 v -6.1408"
-       id="path48437-7-8" />
+       id="path48437-7-8"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="425.4794"
        y="91.045906"
-       id="text10279-7-8-7"><tspan
+       id="text10279-7-8-7"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5-7-3"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -758,7 +866,10 @@
        x="-117.72354"
        y="425.2569"
        id="text10279-3-2-9-6"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9-2-1"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -772,7 +883,10 @@
        x="476.71274"
        y="92.546013"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <rect
        style="fill:#006bff;fill-opacity:0.425473;stroke:#000010;stroke-width:0.700536;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.40107, 0.700536;stroke-dashoffset:0;stroke-opacity:0"
        id="rect51-6-1-7-7-7"
@@ -781,13 +895,19 @@
        x="527.40759"
        y="92.546013"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="474.76825"
        y="91.170319"
-       id="text10279-7-8-7-4"><tspan
+       id="text10279-7-8-7-4"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5-7-3-4"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -799,7 +919,10 @@
        x="-117.84794"
        y="474.54581"
        id="text10279-3-2-9-6-3"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9-2-1-07"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -808,17 +931,26 @@
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-6-2)"
        d="m 418.89153,104.56766 h -6.1408"
-       id="path48437-0-2" />
+       id="path48437-0-2"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-6-2-8)"
        d="m 489.01444,104.59403 h -6.14082"
-       id="path48437-0-2-3" />
+       id="path48437-0-2-3"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="413.05179"
        y="100.96283"
-       id="text49999-2-9"><tspan
+       id="text49999-2-9"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3-3"
          style="font-weight:bold;font-size:7.05556px;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
@@ -831,7 +963,10 @@
        style="font-size:6.35px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="507.1937"
        y="100.96307"
-       id="text49999-2-9-9"><tspan
+       id="text49999-2-9-9"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3-3-7"
          style="font-weight:bold;font-size:6.35px;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
@@ -844,7 +979,10 @@
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="403.84625"
        y="91.045906"
-       id="text10279-7-9-4"><tspan
+       id="text10279-7-9-4"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5-3-7"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -856,7 +994,10 @@
        x="-117.72354"
        y="404.6821"
        id="text10279-3-2-6-8"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9-0-4"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -865,17 +1006,26 @@
     <path
        style="fill:none;stroke:#ff0000;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-1-5-5)"
        d="m 429.80325,130.77018 v -6.1408"
-       id="path48437-7-8-1" />
+       id="path48437-7-8-1"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <path
        style="fill:none;stroke:#00be00;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-1-5-5-2)"
        d="m 478.82115,125.74325 v 6.1408"
-       id="path48437-7-8-1-4" />
+       id="path48437-7-8-1-4"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="474.6813"
        y="139.48235"
-       id="text10279-7-8-7-6"><tspan
+       id="text10279-7-8-7-6"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5-7-3-3"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -887,7 +1037,10 @@
        x="-166.16003"
        y="473.40051"
        id="text10279-3-2-9-6-2"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9-2-1-0"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -896,13 +1049,19 @@
     <path
        style="fill:none;stroke:#00be00;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-1-5-5-2-2)"
        d="m 529.786,76.001795 v 6.140794"
-       id="path48437-7-8-1-4-2" />
+       id="path48437-7-8-1-4-2"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="525.89697"
        y="42.328354"
-       id="text10279-7-8-7-6-6"><tspan
+       id="text10279-7-8-7-6-6"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5-7-3-3-1"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -914,7 +1073,10 @@
        x="-69.006058"
        y="527.26196"
        id="text10279-3-2-9-6-2-0"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9-2-1-0-6"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -928,13 +1090,19 @@
        x="578.60394"
        y="43.704041"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="575.46191"
        y="42.328354"
-       id="text10279-7-8-7-6-6-3"><tspan
+       id="text10279-7-8-7-6-6-3"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5-7-3-3-1-9"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -948,13 +1116,19 @@
        x="498.16074"
        y="92.546013"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="497.73587"
        y="91.170326"
-       id="text10279-7-8-7-6-4"><tspan
+       id="text10279-7-8-7-6-4"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5-7-3-3-9"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -966,7 +1140,10 @@
        x="-117.84802"
        y="496.45508"
        id="text10279-3-2-9-6-2-2"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9-2-1-0-0"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -975,13 +1152,19 @@
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-6-2-8-4)"
        d="M 518.81932,104.594 H 507.28655"
-       id="path48437-0-2-3-5" />
+       id="path48437-0-2-3-5"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="557.1217"
        y="52.121098"
-       id="text49999-2-9-9-3"><tspan
+       id="text49999-2-9-9-3"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3-3-7-0"
          style="font-weight:bold;font-size:6.35px;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
@@ -992,13 +1175,19 @@
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-6-2-8-4-64)"
        d="M 568.74731,55.752028 H 557.21454"
-       id="path48437-0-2-3-5-2" />
+       id="path48437-0-2-3-5-2"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="604.84717"
        y="2.5644801"
-       id="text49999-2-9-9-3-0"><tspan
+       id="text49999-2-9-9-3-0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3-3-7-0-5"
          style="font-weight:bold;font-size:6.35px;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
@@ -1009,13 +1198,19 @@
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-6-2-8-4-64-5)"
        d="M 616.47279,6.1954117 H 604.94002"
-       id="path48437-0-2-3-5-2-4" />
+       id="path48437-0-2-3-5-2-4"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="525.32391"
        y="91.170303"
-       id="text10279-7-8-7-6-4-4"><tspan
+       id="text10279-7-8-7-6-4-4"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5-7-3-3-9-8"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -1027,7 +1222,10 @@
        x="-117.84799"
        y="525.63055"
        id="text10279-3-2-9-6-2-2-7"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9-2-1-0-0-1"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -1038,7 +1236,10 @@
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="583.51624"
        y="31.819872"
-       id="text49999-2-85-1-9-4-17"><tspan
+       id="text49999-2-85-1-9-4-17"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3-6-5-8-8-5"
          style="font-weight:bold;font-size:5.29167px;fill:#00be00;fill-opacity:0.5;stroke-width:0.264583"
@@ -1051,7 +1252,10 @@
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="576.65503"
        y="-7.2282696"
-       id="text10279-7-8-7-4-7"><tspan
+       id="text10279-7-8-7-4-7"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5-7-3-4-4"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -1063,7 +1267,10 @@
        x="-19.449358"
        y="576.43256"
        id="text10279-3-2-9-6-3-1"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9-2-1-07-8"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -1072,17 +1279,26 @@
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-6-2-8-0)"
        d="m 589.84288,6.1954417 h -6.14082"
-       id="path48437-0-2-3-59" />
+       id="path48437-0-2-3-59"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <path
        style="fill:none;stroke:#00be00;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-1-5-5-2-4)"
        d="m 579.6495,27.344662 v 6.1408"
-       id="path48437-7-8-1-4-7" />
+       id="path48437-7-8-1-4-7"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="595.91852"
        y="-7.2282619"
-       id="text10279-7-8-7-6-4-8"><tspan
+       id="text10279-7-8-7-6-4-8"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5-7-3-3-9-83"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -1094,7 +1310,10 @@
        x="-19.449434"
        y="597.28351"
        id="text10279-3-2-9-6-2-2-1"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9-2-1-0-0-8"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -1105,7 +1324,10 @@
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="623.50635"
        y="-7.2282848"
-       id="text10279-7-8-7-6-4-4-6"><tspan
+       id="text10279-7-8-7-6-4-4-6"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5-7-3-3-9-8-4"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -1117,7 +1339,10 @@
        x="-19.449404"
        y="623.81305"
        id="text10279-3-2-9-6-2-2-7-3"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9-2-1-0-0-1-3"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -1131,13 +1356,19 @@
        x="654.33722"
        y="-5.8525763"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:6.35px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="630.66736"
        y="2.5644801"
-       id="text49999-2-9-9-3-0-2"><tspan
+       id="text49999-2-9-9-3-0-2"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3-3-7-0-5-4"
          style="font-weight:bold;font-size:6.35px;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
@@ -1146,13 +1377,19 @@
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-6-2-8-4-64-5-6)"
        d="M 645.57901,6.1954117 H 630.76029"
-       id="path48437-0-2-3-5-2-4-7" />
+       id="path48437-0-2-3-5-2-4-7"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="653.56"
        y="-7.2282858"
-       id="text10279-7-8-7-6-4-4-6-5"><tspan
+       id="text10279-7-8-7-6-4-4-6-5"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5-7-3-3-9-8-4-4"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -1164,7 +1401,10 @@
        x="-19.449404"
        y="652.27917"
        id="text10279-3-2-9-6-2-2-7-3-8"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9-2-1-0-0-1-3-1"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -1178,17 +1418,26 @@
        x="549.74774"
        y="43.704041"
        rx="0"
-       ry="0" />
+       ry="0"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <path
        style="fill:none;stroke:#0000ff;stroke-width:0.565;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-6-2-8-1)"
        d="m 540.52994,55.752058 h -6.14082"
-       id="path48437-0-2-3-6" />
+       id="path48437-0-2-3-6"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="547.13495"
        y="42.328358"
-       id="text10279-7-8-7-6-4-3"><tspan
+       id="text10279-7-8-7-6-4-3"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5-7-3-3-9-6"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -1200,7 +1449,10 @@
        x="-69.006042"
        y="547.97076"
        id="text10279-3-2-9-6-2-2-5"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9-2-1-0-0-6"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -1212,7 +1464,10 @@
        x="-69.006012"
        y="576.08801"
        id="text10279-3-2-9-6-2-2-7-8"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9-2-1-0-0-1-1"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -1221,23 +1476,35 @@
     <path
        style="fill:none;stroke:#0000e5;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-6-2-3)"
        d="M 464.92418,153.00421 H 436.79295"
-       id="path48437-0-2-6" />
+       id="path48437-0-2-6"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <path
        style="fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:0.3;marker-start:url(#Arrow1Mstart-6-2-3-8)"
        d="m 464.95129,104.65052 h -2.27175 -25.85951"
        id="path48437-0-2-6-8"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <path
        style="fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:0.3;marker-start:url(#Arrow1Mstart-6-2-3-8-7)"
        d="m 512.52291,55.850027 h -8.0671 -91.82858"
        id="path48437-0-2-6-8-1"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="465.78708"
        y="2.1852934"
-       id="text49999-2-8-9-6"><tspan
+       id="text49999-2-8-9-6"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3-5-6-0"
          style="font-weight:bold;font-size:5.29167px;fill:#000000;fill-opacity:0.6;stroke-width:0.264583"
@@ -1247,13 +1514,19 @@
        style="fill:#0000ff;fill-opacity:0;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;stroke-opacity:0.3;marker-start:url(#Arrow1Mstart-6-2-3-8-7-3)"
        d="M 557.50744,6.2934117 H 543.97409 389.92287"
        id="path48437-0-2-6-8-1-4"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <text
        xml:space="preserve"
        style="font-size:7.05556px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="446.37872"
        y="149.39928"
-       id="text49999-2-9-1"><tspan
+       id="text49999-2-9-1"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan49997-3-3-5"
          style="font-weight:bold;font-size:7.05556px;fill:#0000ff;fill-opacity:1;stroke-width:0.264583"
@@ -1266,7 +1539,10 @@
        style="font-size:5.29167px;line-height:1.25;font-family:times;-inkscape-font-specification:times;stroke-width:0.264583"
        x="426.06067"
        y="139.48235"
-       id="text10279-7-9-4-7"><tspan
+       id="text10279-7-9-4-7"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-5-3-7-6"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -1278,7 +1554,10 @@
        x="-166.16003"
        y="426.36734"
        id="text10279-3-2-6-8-5"
-       transform="rotate(-90)"><tspan
+       transform="rotate(-90)"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
          sodipodi:role="line"
          id="tspan10277-56-9-0-4-6"
          style="font-size:5.29167px;stroke-width:0.264583"
@@ -1289,16 +1568,64 @@
        id="rect629411"
        width="20.654377"
        height="21.189911"
-       x="662.35345"
+       x="659.70758"
        y="-3.8764558"
-       ry="3.0492229" />
+       ry="3.0492229"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
     <rect
        style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.654285;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect629411-8"
        width="27.711561"
        height="21.179571"
-       x="328.42877"
+       x="330.0163"
        y="-3.9890444"
-       ry="3.047735" />
+       ry="3.047735"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 440.80545,173.99337 H 336.03805"
+       id="path1212"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
+    <path
+       style="fill:none;stroke:#00be00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 671.84907,174.269 H 463.01331"
+       id="path1212-3"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:times;-inkscape-font-specification:times;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="388.43738"
+       y="181.79729"
+       id="text49999-2-85-2-6"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;font-size:7.05556px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="388.43738"
+         y="181.79729"
+         id="tspan636989-3">Encoder</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:times;-inkscape-font-specification:times;fill:#00be00;fill-opacity:1;stroke:#00be00;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="565.18744"
+       y="181.76147"
+       id="text49999-2-85-2-6-5"
+       inkscape:export-filename="/home/pablo/Dropbox/programs/pytorch-image-colorizer/_static/rect51.png"
+       inkscape:export-xdpi="299.99701"
+       inkscape:export-ydpi="299.99701"><tspan
+         sodipodi:role="line"
+         style="font-weight:bold;font-size:7.05556px;text-align:center;baseline-shift:baseline;text-anchor:middle;fill:#00be00;fill-opacity:1;stroke:#00be00;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="565.18744"
+         y="181.76147"
+         id="tspan636989-3-6">Decoder</tspan></text>
   </g>
 </svg>
